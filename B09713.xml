@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some of the Quakers contradictory testimonies about oaths and swearing; whereby it does appear their pretensions of being infallible, and that their books and papers are given forth by the immediate eternal spirit of God*, is but a vain boast, and a very great and strong delusion. ...</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09713</idno>
+            <idno type="OCLC"> 80923344</idno>
+            <idno type="STC">Wing P1417B</idno>
+            <idno type="STC">ESTC R233451</idno>
+            <idno type="EEBO-CITATION">80923344</idno>
+            <idno type="OCLC">ocm 80923344</idno>
+            <idno type="VID">191947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191947)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:20b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some of the Quakers contradictory testimonies about oaths and swearing; whereby it does appear their pretensions of being infallible, and that their books and papers are given forth by the immediate eternal spirit of God*, is but a vain boast, and a very great and strong delusion. ...</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed 1696. and are to be sold, (with divers other of their contradictions in a large sheet of paper) at J. Gwillims in Bishopsgate-street, and S. Clark's in George-yard, booksellers,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. 4 signed and dated: J.P. [i.e. John Pennyman] 2d of (the month call'd) August, 1696,.</note>
+                  <note>Imprint from colophon on p. 3.</note>
+                  <note>Printed in two columms.</note>
+                  <note>Imperfect: cropped, stained, and edges mutilated.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+                  <note>With: Some of the Quakers contradictions which they writ , &amp;c. London, : Printed 1696. and are to be sold by J. Gwillim in Bishopsgate-street, and S. Clark in George-Yard, booksellers, [1696] -- An abstract of a large printed paper, from Pensilvania, intituled, A brief admonition to the elders and ministers of the people called Quakers. London, : [s.n.], printed in the month called July, 1698.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+               <term>Oaths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="introduction">
+            <pb n="12" facs="tcp:191947:1"/>
+            <head>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is following is chiefly intended for, and recommended to the ſerious peruſal of the People called <hi>Quakers,</hi> whom it nearly concerns.</head>
+            <p>E<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>RY <hi>Diſpenſation</hi> hath but its Seaſon, wherein the <hi>Light</hi> of it is to <hi>ſhine;</hi> but after<g ref="char:EOLhyphen"/>wards it muſt be put out, and be buried in the Dark. And when this is out of date, Perſons are to be valued no more by it; but the higheſt in <hi>this Light</hi> and <hi>Worſhip,</hi> will be laid as even with the Meaneſt, as the higheſt and ſtricteſt <hi>Jews</hi> were (when their <hi>Diſpenſation</hi> fell) with the loweſt <hi>Gentiles.</hi>
+            </p>
+            <p>Little did <hi>Iſrael</hi> think they could have been ſo deceiv'd about the coming of the <hi>Meſſiah;</hi> little did they think the <hi>Meſſiah</hi> could have laid their <hi>Laws</hi> and <hi>Ordinances</hi> ſo flat at His coming as he did. It is impoſſible for the Eye of that Wiſdom [<hi>by which the Jews and the Quakers have judged,</hi> viz. <hi>only by outward appearance</hi>] to pierce into the various Ways and Appearances of GOD.</p>
+            <p>Nothing is darker than the foregoing Glory, when a new One ſucceeds; none are farther from eſpying GOD in a new Diſcovery, than <hi>(many of)</hi> thoſe that had the cleareſt ſight of HIM in the Old.</p>
+            <p>Look to your ſelves in time, leſt this <hi>ſtrange Cataſtrophe</hi> overtake you unawares.</p>
+            <p>
+               <hi>Diſpenſations,</hi> and the <hi>Fight</hi> under <hi>Diſpenſations,</hi> is not yet ended. We muſt contend, and remain ſtrange a while longer: There is a <hi>Gulf</hi> as yet between us, that we cannot meet. Ye cannot know me, if it were ſo that I knew you: You will proſecute me with Hatred, tho I ſhould woo you with the greateſt and entireſt Love. <hi>J. P.</hi>
+            </p>
+         </div>
+         <div type="table_of_contradictory_Quaker_beliefs">
+            <pb n="1" facs="tcp:191947:1"/>
+            <p>
+               <table>
+                  <head>Some of the <hi>Quakers</hi> Contradictory Teſtimonies about OATHS and SWEARING; whereby it does appear their Pretenſions of being <hi>Infallible,</hi> and that their <hi>Books</hi> and <hi>Papers are given forth by the immediate Eternal Spirit of GOD</hi>
+                     <note n="*" place="margin">George Fox <hi>and</hi> R. H<hi>'s Truth's Defence,</hi> &amp;c. <hi>p.</hi> 104.</note>, is but a vain Boaſt, and a very great and ſtrong <hi>Deluſion. <q xml:lang="lat">Vide, Audi, Judica.</q>
+                     </hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell>Here follow their contradictory Teſtimonies.</cell>
+                  </row>
+                  <row>
+                     <cell>Firſt ſee their Book, <hi>A Treatiſe of Oaths,</hi> preſented to the King and Parliament, <hi>1675.</hi> ſigned by <hi>William Penn, George Whitehead,</hi> and <hi>11</hi> more.</cell>
+                     <cell>Firſt ſee their Book, <hi>Reaſon againſt Rail<g ref="char:EOLhyphen"/>ing,</hi> in anſwer to <hi>Tho. Hicks,</hi> where they uſe an expreſs <hi>Oath,</hi> as recorded in Scripture, <hi>Jer. 4.2. &amp; 5.2.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1. WE look upon 't to be no leſs than <hi>a preſumptuous tempting of GOD, to ſummon him as a Witneſs,</hi> not only to our terrene, but trivial Buſineſſes, ſuch as we ſhould, doubtleſs, account it an high Indignity always to ſolicite an earthly Prince to give his Attendance about. What! make GOD, the Great GOD of Heaven and Earth, our Caution in <hi>Worldly Controverſies,</hi> as if we would bind HIM to obtain our own Ends: It is to make too bold with HIM, and to carry an undue Diſtance towards HIM that made us; an <hi>Irreverence we can by no means away with,</hi> p. 17.</cell>
+                     <cell>1. O That theſe heavy things might not be laid to thy Charge, for <hi>SO S<g ref="char:V">Ʋ</g>RE AS THE LORD LIVETH,</hi> great will be the Wrath that ſhall follow, <hi>p.</hi> 180.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>[Next, ſee their <hi>Epiſtle from the Meeting for Sufferings, to their Friends in</hi> England <hi>and elſewhere,</hi> &amp;c. Printed about the time of their laſt yearly Meeting, 1696.] It ſeems need<g ref="char:EOLhyphen"/>ful to us to acquaint you, that it was the Senſe of this Meeting, that ſomewhat might be done to ſatisfy all that may be in doubt, or that may have it in their Minds as Matter of Queſtion, what ſolemn Words <hi>Friends</hi> might uſe or admit of, and not vary from our known Principle, <hi>Swear not at all.</hi> —And in order thereto, to ſhew the Teſtimonies of Friends formerly expreſs'd, <hi>p.</hi> 4. <hi>viz.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. Let your <hi>Yea</hi> be <hi>Yea, Nay, Nay;</hi> for whatſoever is <hi>MORE</hi> than theſe cometh of <hi>Evil,</hi> p. 19. [And in <hi>p.</hi> 74. they bring <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi> to confirm this, as not only to be of <hi>Evil,</hi> but that it is an abſolute <hi>Oath.</hi>]</cell>
+                     <cell>
+                        <p>2. We are willing at <hi>all times,</hi> and upon every good Occaſion,<note place="margin">
+                              <hi>Is not this more than</hi> Yea <hi>and</hi> Nay? <hi>beyond which they ſay</hi> Chriſti<g ref="char:EOLhyphen"/>ans ought not to go.</note> to affirm or deny, in <hi>Yea</hi> or <hi>Yes,</hi> in <hi>Nay</hi> or <hi>No,</hi> and that as <hi>in the Preſence of GOD, or GOD is our Witneſs,</hi> or <hi>we ſpeak the Truth in Chriſt,</hi> &amp;c. <hi>p.</hi> 7.</p>
+                        <p>And <hi>Francis Howgil</hi> in Anſwer to Dr. <hi>Smallwood</hi> ſays,</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3. <p>
+                           <hi>Object.</hi> 
+                           <q>What ſhall we ſay is beyond <hi>Yea</hi> and <hi>Nay?</hi>
+                           </q>
+                        </p>
+                        <p>
+                           <hi>Anſw.</hi> 
+                           <q>Without doubt an <hi>Oath,</hi> not Per<g ref="char:EOLhyphen"/>jury, ſith this is altogether manifeſt, and none needs be taught it, that it is of <hi>Evil,</hi>
+                              <pb n="2" facs="tcp:191947:2"/> and not ſo much ſuperfluous as altogether contrary: Now that is ſuperfluous which is added needleſly, and too much, which ſurely is an Oath, <hi>p.</hi> 74.</q>
+                        </p>
+                     </cell>
+                     <cell>3. We are ready to teſtify the Truth <hi>be<g ref="char:EOLhyphen"/>fore
+<pb n="2" facs="tcp:191947:2"/> the LORD,</hi> or <hi>in his Preſence,</hi> as concern<g ref="char:EOLhyphen"/>ing any Matter which con<g ref="char:EOLhyphen"/>cerns the Glory of GOD,
+<note place="margin">
+                           <hi>But now they have bound themſelves up to a certain Form of Words.</hi>
+                        </note> or the Good of our Neigh<g ref="char:EOLhyphen"/>bour, without being <hi>pinch'd</hi> or <hi>bound up</hi> to a certain Form of Words <hi>impo<g ref="char:EOLhyphen"/>ſed</hi> upon us, <hi>p.</hi> 9. Again,</cell>
+                  </row>
+                  <pb n="1" facs="tcp:191947:1"/>
+                  <row>
+                     <cell>[And in their Book, <hi>A Poſition and Teſti<g ref="char:EOLhyphen"/>mony againſt all Swearing under the Goſpel.</hi> (Printed 1692. and ſold by <hi>Tho. Northcot</hi> in <hi>George-yard</hi>) they ſay,]</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4. <hi>The calling GOD to witneſs</hi> to bind any Affirmation, Promiſe, or Denial, eſpecially when relating to temporal and leſſer Mat<g ref="char:EOLhyphen"/>ters, moſt underſtanding Men, and eſpeci<g ref="char:EOLhyphen"/>ally the Learned, in moſt Ages, accounted it an <hi>Oath,</hi> p. 22.</cell>
+                     <cell>4. <hi>The LORD is Witneſs,</hi> or, <hi>I ſpeak the Truth in Chriſt,</hi> or, this is Truth <hi>in the Preſence of GOD,</hi> or the like, none of theſe will ſerve; but tho he and the Rulers do ſay they are <hi>Oaths</hi>—, yet it would never be received, <hi>p.</hi> 10.</cell>
+                  </row>
+                  <row>
+                     <cell>5. And indeed the appealing (after <hi>any manner</hi>) to GOD as a Judg, or <hi>any ways</hi> uſing his <hi>ſacred Name,</hi> or mentioning any thing whereby it may be implied, as by Heaven, Earth, <hi>&amp;c.</hi> being only deſigned for a further ſtrenthening and confirming the Truth of my Speech, Affirmation, Promiſe or Denial, when relating only to humane, worldly and inferiour Matters, may be granted to be an <hi>Oath,</hi> but otherwiſe not ſo, when uſed on<g ref="char:EOLhyphen"/>ly upon a Divine and Religious Account, <hi>p.</hi> 23.</cell>
+                     <cell>5. And <hi>Sam. Fiſher</hi> ſays, <hi>GOD is my Wit<g ref="char:EOLhyphen"/>neſs, GOD is my Record,</hi> my Conſcience bear<g ref="char:EOLhyphen"/>ing me witneſs in the Holy Spirit, and ſuch like, the <hi>Quakers</hi> [ſays he] gainſay in ſolemn Caſes no more than themſelves
+<note n="*" place="margin">
+                           <hi>Is this true? Let the Quotations in the other Column be re-exa<g ref="char:EOLhyphen"/>mined.</hi>
+                        </note>, <hi>p.</hi> 12.</cell>
+                  </row>
+                  <row>
+                     <cell>6. How can any <hi>invoke GOD for a Witneſs,</hi> or any <hi>other purpoſe,</hi> or <hi>any ways</hi> imploy or uſe His <hi>ſacred Name</hi> for a Security in earthly Matters, if it was not <hi>a proper Oath?</hi> p. 31.</cell>
+                     <cell>6. And in his Anſwer to Biſhop <hi>Gawden,</hi> treating of thoſe Expreſſi<g ref="char:EOLhyphen"/>ons of <hi>Chriſt</hi> and <hi>Paul,</hi> ſaith, And none of them which (as Occaſion is) they are not as free to uſe (not as <hi>impos'd by Men, tying them</hi> to their <hi>Wills</hi> to any <hi>one</hi> of them, but as <hi>moved</hi>
+                        <note n="†" place="margin">
+                           <hi>But of late have tied up themſelves, whe<g ref="char:EOLhyphen"/>ther</hi> Motion <hi>or no.</hi>
+                        </note> to any <hi>one</hi> of them, as the LORD giveth Utte<g ref="char:EOLhyphen"/>rance) as they are to uſe <hi>Yea</hi> and <hi>Nay</hi> it ſelf: yet tho they ſay <hi>GOD is my Witneſs,</hi> or any of the reſt, they will not take it for an <hi>Oath</hi> at their <hi>Courts</hi>
+                        <note n="‖" place="margin">
+                           <hi>The Reaſon of the Judges Refuſal was not becauſe they were not</hi> Oaths, <hi>(for they did not only account them Oaths as others did, but puniſh'd ſuch as pro<g ref="char:EOLhyphen"/>fanely uſed them, as Swewers) but the on<g ref="char:EOLhyphen"/>ly Reaſon why they could not receive them at their</hi> Courts <hi>was, becauſe they were not judicial</hi> Oaths.</note>, p. 14.</cell>
+                  </row>
+                  <row>
+                     <cell>7. From hence it may be ſeen an invincible Reaſon againſt Swearing, and the <hi>naming</hi> or uſing <hi>GOD's ſacred Name any ways</hi> to confirm the Truth of my Speech, relating to humane and worldly Matters, <hi>p.</hi> 39.</cell>
+                     <cell>7. Again, Thus among their Miniſters at their Churches and in their Books,—<hi>GOD is my Witneſs, I call GOD to Record,</hi> I ſpeak the Truth <hi>before GOD, and lie not; I ſpeak as in the Preſence of GOD,</hi> and ſuch like, are <hi>Oaths</hi> and <hi>Forms</hi> of <hi>Swearing:</hi> But among the Magi<g ref="char:EOLhyphen"/>ſtrates in their <hi>Courts,</hi> and at their <hi>Benches</hi>—, thoſe and ſuch like Forms of Speech are not a Swearing
+<note n="*" place="margin">
+                           <hi>Is not this an in<g ref="char:EOLhyphen"/>voking of GOD, and which they themſelves ſay is a</hi> proper Oath?</note>, <hi>p.</hi> 14, 15.</cell>
+                  </row>
+                  <row>
+                     <cell>8. With what Face or Pretence can any that ſincerely profeſs Chriſtianity take any <hi>Oath,</hi> or uſe any <hi>higher Expreſſions</hi> for confirm<g ref="char:EOLhyphen"/>ing humane and temporal Matters, than <hi>Chriſt</hi>'s Evangelical Sentence of <hi>Yea, Yea,</hi> and <hi>Nay, Nay;</hi> or what is equivolent thereto? And what Chriſtian Men, or <hi>Magiſtrates,</hi> or <hi>Powers of the Earth,</hi> can (lawfully) preſcribe or require more than <hi>Chriſt</hi> hath permitted herein?</cell>
+                     <cell>8. We take <hi>the Holy GOD to Record</hi>
+                        <note n="†" place="margin">
+                           <hi>But of late have tied up themſelves, whe<g ref="char:EOLhyphen"/>ther</hi> Motion <hi>or no.</hi>
+                        </note> againſt all Objections—, <hi>p.</hi> 19.</cell>
+                  </row>
+                  <pb n="3" facs="tcp:191947:2"/>
+                  <row>
+                     <cell>9. And if <hi>Chriſt</hi> hath not limited us there<g ref="char:EOLhyphen"/>by to them bare Words, or that particular Form of Speech, yet ſurely he hath in a degree of Speech, in our affirming or denying, beyond which to be ſure <hi>Chriſtians ought not to go.</hi>
+                     </cell>
+                     <cell>9. See <hi>Friend</hi>'s Paper to the Government, 1679. in which is contain'd a Proteſtation or Declaration to diſtinguiſh <hi>Proteſtant Diſſenters</hi> from <hi>Popiſh Recuſants,</hi> beginning thus; <hi>I</hi> A. B. <hi>do in the Pre<g ref="char:EOLhyphen"/>ſence of Almighty GOD ſo<g ref="char:EOLhyphen"/>lemnly profeſs, and in good Conſcience declare</hi>
+                        <note n="‖" place="margin">
+                           <hi>Is not this beyond the Simplicity of</hi> Yea <hi>and</hi> Nay? <hi>and ſo are by their own Confeſſion de<g ref="char:EOLhyphen"/>clin'd from the Sanctity and Credit of the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians.</hi>
+                        </note>, &amp;c. <hi>p.</hi> 21.</cell>
+                  </row>
+                  <row>
+                     <cell>10. Then it is plain thoſe that have went, or ſhall go beyond this Simplicity of <hi>Yea, Yea,</hi> and <hi>Nay, Nay,</hi> did or muſt de<g ref="char:EOLhyphen"/>cline from the Sanctity and Credit of the Pro<g ref="char:EOLhyphen"/>feſſion of the Primitive Chriſtians, <hi>p.</hi> 46, 47.</cell>
+                     <cell>10. And <hi>W. Penn</hi> in his Anſwer to the <hi>A<g ref="char:EOLhyphen"/>thenian Mercury,</hi> mentioning the Apoſtle's Words, <hi>Rom.</hi> 9.1. <hi>GOD is my Witneſs.</hi> 2 Cor. 11.31. <hi>GOD knoweth I lie not.</hi> Gal. 1.20. <hi>Be<g ref="char:EOLhyphen"/>fore GOD I lie not. W. Penn</hi> denying on our part any of theſe ſaid Texts to be an <hi>Oath</hi>
+                        <note n="*" place="margin">
+                           <hi>And yet in the other Column grants them to be</hi> Oaths <hi>when uſed about</hi> worldly Matters: <hi>Is not here Contradiction upon Con<g ref="char:EOLhyphen"/>tradiction?</hi>
+                        </note>, and ſo therein concurring with <hi>Friends</hi> former and preſent Judgment in the Caſe. So that you have a Continua<g ref="char:EOLhyphen"/>tion of Proofs <hi>[mark, not from the Scriptures, but]</hi> from <hi>Friends</hi> of great EMINENCY, that this hath been, without Queſtion, the Principle and Practice of <hi>Friends,</hi> p. 20.</cell>
+                  </row>
+                  <row>
+                     <cell>[See the other Column, if they are not by this laſt Sentence condemn'd out of their own Mouths. Alſo it is to be obſerv'd, that notwithſtanding their aboveſaid Teſtimonies againſt <hi>calling GOD as a Witneſs,</hi> or the like, or uſing any <hi>higher Expreſſions than</hi> Yea <hi>and</hi> Nay <hi>in worldly Controverſies, and beyond which Chri<g ref="char:EOLhyphen"/>ſtians ought not to go, and that the Powers of the Earth could not (lawfully) preſcribe or require more than Chriſt hath permitted herein.</hi> Yet ſome of the leading <hi>Quakers</hi> themſelves have not only gone beyond <hi>Yea</hi> and <hi>Nay,</hi> and that in a very high degree, but of late ſolicited the Powers of the Earth for an <hi>Act,</hi> that their declaring <hi>in the Preſence of Almighty GOD THE WIT<g ref="char:EOLhyphen"/>NESS of the Truth of what they ſay,</hi> might be accepted inſtead of the uſual Form of laying the Hand on the Bible, <hi>&amp;c.</hi> which was ac<g ref="char:EOLhyphen"/>cordingly granted them: But ſome others of their People being greatly diſſatisfied with what they had done (it being quite contrary to their Allegations and Aſſertions aforemen<g ref="char:EOLhyphen"/>tioned) they were forced to collect from ſome other of their Writings, repugnant and contrary to theſe, (ſome of which are cited in the other Column) to endeavour to ſatisfy and quiet the Minds of their diſſatisfi<g ref="char:EOLhyphen"/>ed Friends, that their ELDERS had uſed ſuch Words as <hi>calling GOD as a Witneſs,</hi> and the like, and therefore they might uſe the Form aforeſaid.]</cell>
+                     <cell>[Now it is to be obſerv'd, that this <hi>Epiſtle</hi> being ſo manifeſtly contradictory to ſome other of their Writings, they kept it ſo ve<g ref="char:EOLhyphen"/>ry private, that ſeveral who would have bought it, were refus'd, being, no doubt, conſcious to themſelves that if it was made publick with thoſe that were of an oppoſite Tendency, it would expoſe and render them <hi>fallible</hi> and <hi>contradictory</hi> to themſelves; neither of which they would have us believe they are in the leaſt guilty of: but it's a true Say<g ref="char:EOLhyphen"/>ing, <hi>The Tree is known by its Fruit.</hi> But if not<g ref="char:EOLhyphen"/>withſtanding all this, or what hath been or may be demonſtrated to the contrary, their Hearers will ſtill believe, that their Miniſters <hi>preach</hi> and <hi>print</hi> by the <hi>infallible</hi> and <hi>divine Spi<g ref="char:EOLhyphen"/>rit,</hi> then I muſt conclude (and that with Sor<g ref="char:EOLhyphen"/>row of Heart) with that Saying, <hi>Qui vult de<g ref="char:EOLhyphen"/>cipi decipiatur,</hi> He that will not be undeceiv'd, muſt be deceived.]</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Now read their Contradictions in the other Column.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed 1696. and are to be ſold, (with divers other of their Contradictions in a large Sheet of Paper) at <hi>J. Gwillims</hi> in <hi>Biſhopſgate-ſtreet,</hi> and <hi>S. Clark's</hi> in <hi>George-yard,</hi> Bookſellers.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:191947:3"/>
+            <head>This following is a Copy of a LETTER that was ſent (with the foregoing) to <hi>William Penn, George Whitehead,</hi> and the reſt of their Miniſters.</head>
+            <p>I That am a Man of Peace, Love, and good Will to all Mankind, have been made to ap<g ref="char:EOLhyphen"/>pear like a Man of Strife and Contention: And why was it? Surely it could not be for any earthly or worldly Advantage I was made ſo to appear; but it was certainly ſo order'd, and that by the very ſame good Spirit (and, at times, in the ſame Reluctancy of Mind) that <hi>Jeremiah</hi> was ſent to the <hi>Iſraelites</hi> of old.</p>
+            <p>Now, if this be true, as moſt true it is, then it concerns you (unto whom I have ſo ap<g ref="char:EOLhyphen"/>peared) to reflect upon your ſelves, and ſay, <hi>What have we done?</hi> or <hi>are a doing?</hi> that ſuch a Perſon ſhould be [thus] raiſed up, to Reprove, Warn, and Caution us, as we formerly Reproved, Warned, and Caution'd others? I ſay, If the Conſideration of this was but duly and deeply weighed and conſidered of by you (as without all doubt it ſhould and ought to be) then 'twere poſſible you might yet come to ſee, and be made ſenſible, that 'tis not the Spirit of <hi>Chriſt</hi> that acts and guides you, and that it was not in Enmity or Ill-will (as ſome of you have imagin'd) that I have been made ſo often to viſit and exhort you, but that it was [only] in love to Truth, and in obedience to the good Spirit of the ever Bleſſed GOD, in whoſe Service I deſire evermore to be found faithful.</p>
+            <closer>
+               <signed>J. P.</signed>
+               <dateline>
+                  <date>2<hi>d</hi> of (the Month call'd) <hi>Auguſt,</hi> 1696,</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="admonition_to_Quakers">
+            <pb facs="tcp:191947:3" rendition="simple:additions"/>
+            <head>AN ABSTRACT Of a Large Printed Paper, from <hi>Penſilvania,</hi> Intituled, <hi>A Brief ADMONITION to the</hi> Elders <hi>and</hi> Miniſters <hi>of the People called</hi> QUAKERS.</head>
+            <q>
+               <p>MAny Months have I been preſſed in Spirit to Warn you, the <hi>Leaders</hi> and <hi>Miniſters</hi> of the People call'd <hi>Quakers—viz.</hi> Tho' you were careful, at your half Years Meeting of <hi>Miniſters</hi> at <hi>Phila<g ref="char:EOLhyphen"/>delphia,</hi> the 6th of the 4th Month <hi>(June)</hi> laſt, to Forbid your Friends <hi>wearing a Speckled Neckcloth, a Ribband for a Hatband,</hi> and the like; and ſeem very Zealous to forbid your Friends to Marry with other Chriſtian Profeſſors. Nay, and to warn them, on pain of <hi>Judgment,</hi> not to have ſo much Society with your late Friends (whom you call Separates) as to go to their Weddings, Preaching it up as a <hi>Sin</hi> ſo to do. And the Yearly Paper from <hi>London,</hi> warning their Friends to keep to the plain Language of <hi>Thee</hi> and <hi>Thou, &amp;c.</hi> Yet, know aſſuredly, That tho' <hi>Your Religion</hi> lie in theſe <hi>Outward Ceremonies,</hi> they are but Trifles—And are Inſufficient to divert Divine <hi>Vengeance,</hi> which is certainly <hi>your Portion,</hi> if you ſtill neglect, firſt to Clenſe the <hi>Inſide</hi> from <hi>Pride</hi> and <hi>Envy,</hi> againſt your fellow Creatures, for refuſing Conformity to your Ways.</p>
+               <p>And inaſmuch as you declare to the World, That you are Arriv'd to ſuch a height of Perfection, beyond other Chriſtian Profeſſors, that you are ſo far <hi>free from Sin,</hi> as that you have no need to ask Forgiveneſs; From hence it is, That you do never, in your Prayers, in Meetings, ask Forgiveneſs of Sin. [Tho' tis apparent, That there is no Religious Society this day in <hi>Chri<g ref="char:EOLhyphen"/>ſtendom,</hi> that are Guilty of more <hi>Whoredoms, Adultries,</hi> and other <hi>Foul</hi> and <hi>Abominable Actions</hi> than you have been, the Number conſidered.] There<g ref="char:EOLhyphen"/>fore ceaſe your <hi>Woes</hi> and <hi>Warnings</hi> againſt the <hi>Whoredoms</hi> and <hi>Abominations</hi> that are in the <hi>World,</hi> and firſt cry out againſt thoſe Things that are a<g ref="char:EOLhyphen"/>mongſt your ſelves; firſt <hi>Clenſe your own Camp,</hi> and then Warn others to beware of theſe Evils, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>The aboveſaid <hi>Admonition</hi> (with others) being ſent from <hi>Penſilvania</hi> ſome time ago (put forth by one <hi>Daniel Leeds,</hi> an Antient <hi>Quaker</hi>) tis thought meet to have it Reprinted, and to be Communicated to the <hi>Quakers</hi> here, that ſo they may ſee (notwithſtanding their High Boaſt of being <hi>Free form Sin</hi>) That the <hi>Whoredoms, Adultries,</hi> and other Immoralities of their Friends beyond Sea, are as great, as theirs are here: And for which, there is great cauſe of Sorrow, and deep Humiliation, which that this Paper might be Inſtrumental to pro<g ref="char:EOLhyphen"/>duce amongſt them, would be to the Joy, and true Rejoycing of ſome Sincere Souls that have Mourned for them; and that ſtill heartily deſires their Repen<g ref="char:EOLhyphen"/>tance and Amendment of Life; and that longs to ſee the Day, wherein they might be truly Humbled and Repent: This being the <hi>Way,</hi> and there is not another, for an Holy and Happy Reconciliation, both with the LORD, and all that truly Love, Fear, and Obey HIM, and that are Zealous for HIS Honour and Glory; of which Number, the Publiſher hereof deſires Evermore to be found, whilſt he has a Being in this World; that when his Days are Ended, and his Work Finiſhed for which he was Born, he may lay down his Head in Peace, and be receiv'd to Mercy with all the Holy <hi>Ancients.</hi> Even ſo <hi>Amen</hi> and <hi>Amen,</hi> is the humble Deſire, and conſtant Prayer of a Friend to the whole Creation.</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Month called <hi>July,</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
